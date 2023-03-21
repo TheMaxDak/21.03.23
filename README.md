@@ -12,8 +12,6 @@ import re
 result = re.sub(r'TYTY','HA$','SGO TO HA$')
 print(result)
 ```
-# Задане 3
-```
 
 #Задание 3
 ```

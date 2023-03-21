@@ -13,7 +13,7 @@ result = re.sub(r'TYTY','HA$','SGO TO HA$')
 print(result)
 ```
 
-#Задание 3
+# Задание 3
 ```
 
 import re 
@@ -21,7 +21,7 @@ result = re.findall(r'bread','bread s chesse and bread s hunny')
 print(result)
 ```
 
-#Задание 4
+# Задание 4
 ```
 
 import re
@@ -29,7 +29,7 @@ result = re.match(r'Gag','Gag Ton')
 print(result.group(0))
 ```
 
-#Задание 5
+# Задание 5
 ```
 
 import re
